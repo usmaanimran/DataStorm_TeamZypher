@@ -1,6 +1,6 @@
 # Team Zypher — Data Storm v7.0 (OCTAVE)
 
-End-to-end lakehouse pipeline for **Potential-Based Allocation**: estimating uncapped latent monthly demand at each outlet for January 2026.
+Google Drive folder since it was done in google colab: https://drive.google.com/drive/folders/1hzJtMfkISC4c1xsLFbLvh1JyuDGG9-7-?usp=sharing
 
 ## Prerequisites
 
